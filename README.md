@@ -7,3 +7,9 @@
 #.3:run the haz gen
 
 #.4:check downloads the generated info will be there
+
+
+
+
+
+NOT DISCUISED!!!!!!!!!!! its not!!!!!! a token grabber
